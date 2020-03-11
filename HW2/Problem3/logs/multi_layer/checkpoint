@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:/JupyterNotebook/IEOR_4742/HW2/Problem3/logs/multi_layer/model-checkpoint-100100"
+all_model_checkpoint_paths: "D:/JupyterNotebook/IEOR_4742/HW2/Problem3/logs/multi_layer/model-checkpoint-56100"
+all_model_checkpoint_paths: "D:/JupyterNotebook/IEOR_4742/HW2/Problem3/logs/multi_layer/model-checkpoint-67100"
+all_model_checkpoint_paths: "D:/JupyterNotebook/IEOR_4742/HW2/Problem3/logs/multi_layer/model-checkpoint-78100"
+all_model_checkpoint_paths: "D:/JupyterNotebook/IEOR_4742/HW2/Problem3/logs/multi_layer/model-checkpoint-89100"
+all_model_checkpoint_paths: "D:/JupyterNotebook/IEOR_4742/HW2/Problem3/logs/multi_layer/model-checkpoint-100100"
