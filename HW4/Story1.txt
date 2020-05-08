@@ -1,0 +1,396 @@
+Elapsed time: 10.115012168884277 second(s)
+The parameters are
+ n_input=3
+ training_iters=2000
+ LSTM layer=1
+ n_hidden=2
+Sarah had breakfast with . Sarah . . Sarah . .
+David with Steve . . Sarah . . Sarah . .
+Steve had lunch . . Sarah . . Sarah . .
+
+ 
+Elapsed time: 10.077236890792847 second(s)
+The parameters are
+ n_input=3
+ training_iters=2000
+ LSTM layer=1
+ n_hidden=3
+Sarah had breakfast with with with with with with with with
+David with Steve had with with with with with with with
+Steve had lunch with with with with with with with with
+
+ 
+Elapsed time: 10.012950897216797 second(s)
+The parameters are
+ n_input=3
+ training_iters=2000
+ LSTM layer=1
+ n_hidden=4
+Sarah had breakfast with with had Sarah with had David had
+David with Steve had David had Sarah with had David had
+Steve had lunch with . had Sarah with had David had
+
+ 
+Elapsed time: 14.630528688430786 second(s)
+The parameters are
+ n_input=3
+ training_iters=2000
+ LSTM layer=2
+ n_hidden=2
+Sarah had breakfast with with with with with with with with
+David with Steve with with with with with with with with
+Steve had lunch with with with with with with with with
+
+ 
+Elapsed time: 14.927414178848267 second(s)
+The parameters are
+ n_input=3
+ training_iters=2000
+ LSTM layer=2
+ n_hidden=3
+Sarah had breakfast with with with with with with with with
+David with Steve with with with with with with with with
+Steve had lunch with with with with with with with with
+
+ 
+Elapsed time: 15.178237915039062 second(s)
+The parameters are
+ n_input=3
+ training_iters=2000
+ LSTM layer=2
+ n_hidden=4
+Sarah had breakfast with Steve had . . Steve with .
+David with Steve with . . Steve with . . Steve
+Steve had lunch with Steve had . . Steve with .
+
+ 
+Elapsed time: 31.936901330947876 second(s)
+The parameters are
+ n_input=3
+ training_iters=5000
+ LSTM layer=1
+ n_hidden=2
+Sarah had breakfast with . Sarah . Sarah . Sarah .
+David with Steve . Sarah . Sarah . Sarah . Sarah
+Steve had lunch with . Sarah . Sarah . Sarah .
+
+ 
+Elapsed time: 31.526834964752197 second(s)
+The parameters are
+ n_input=3
+ training_iters=5000
+ LSTM layer=1
+ n_hidden=3
+Sarah had breakfast with Sarah . Sarah had dinner with Sarah
+David with Steve with Sarah . Sarah had dinner with Sarah
+Steve had lunch with Sarah . Sarah had dinner with Sarah
+
+ 
+Elapsed time: 31.97390389442444 second(s)
+The parameters are
+ n_input=3
+ training_iters=5000
+ LSTM layer=1
+ n_hidden=4
+Sarah had breakfast with Steve . had Sarah with Sarah .
+David with Steve . had Sarah with Sarah . had dinner
+Steve had lunch with Sarah . had dinner with Steve .
+
+ 
+Elapsed time: 41.96396803855896 second(s)
+The parameters are
+ n_input=3
+ training_iters=5000
+ LSTM layer=2
+ n_hidden=2
+Sarah had breakfast . with . with with with with with
+David with Steve with with with with with with with with
+Steve had lunch . with . with with with with with
+
+ 
+Elapsed time: 42.559629917144775 second(s)
+The parameters are
+ n_input=3
+ training_iters=5000
+ LSTM layer=2
+ n_hidden=3
+Sarah had breakfast with Steve . Steve . Sarah . Sarah
+David with Steve with Steve . Steve . Sarah . Sarah
+Steve had lunch . Steve . Sarah . Sarah . Sarah
+
+ 
+Elapsed time: 41.97992706298828 second(s)
+The parameters are
+ n_input=3
+ training_iters=5000
+ LSTM layer=2
+ n_hidden=4
+Sarah had breakfast with Steve . Sarah had . with Sarah
+David with Steve . Sarah had . with Sarah Sarah Sarah
+Steve had lunch with Sarah . Sarah had . with Sarah
+
+ 
+Elapsed time: 1.4270509362220765 minute(s)
+The parameters are
+ n_input=3
+ training_iters=10000
+ LSTM layer=1
+ n_hidden=2
+Sarah had breakfast with had had Sarah Sarah Sarah . .
+David with Steve with Sarah . Sarah . Sarah . Sarah
+Steve had lunch with Sarah . Sarah . Sarah . Sarah
+
+ 
+Elapsed time: 1.417362916469574 minute(s)
+The parameters are
+ n_input=3
+ training_iters=10000
+ LSTM layer=1
+ n_hidden=3
+Sarah had breakfast with Steve . Sarah had dinner with Steve
+David with Steve had Sarah with Steve had Sarah with Steve
+Steve had lunch with Steve . Sarah had dinner with Steve
+
+ 
+Elapsed time: 1.4482445200284322 minute(s)
+The parameters are
+ n_input=3
+ training_iters=10000
+ LSTM layer=1
+ n_hidden=4
+Sarah had breakfast with Sarah . Sarah had dinner with Sarah
+David with Steve with Sarah . Sarah had dinner with Sarah
+Steve had lunch with Sarah . Sarah had dinner with Sarah
+
+ 
+Elapsed time: 1.7663789629936217 minute(s)
+The parameters are
+ n_input=3
+ training_iters=10000
+ LSTM layer=2
+ n_hidden=2
+Sarah had breakfast with Steve . Steve with with with Sarah
+David with Steve with Steve with Steve with Steve with Steve
+Steve had lunch with Steve . Steve with with with Sarah
+
+ 
+Elapsed time: 1.7678253650665283 minute(s)
+The parameters are
+ n_input=3
+ training_iters=10000
+ LSTM layer=2
+ n_hidden=3
+Sarah had breakfast with Steve . Steve with with with Sarah
+David with Steve with Steve with Steve with Steve with Steve
+Steve had lunch with Sarah . Sarah with dinner with Steve
+
+ 
+Elapsed time: 1.7832368652025858 minute(s)
+The parameters are
+ n_input=3
+ training_iters=10000
+ LSTM layer=2
+ n_hidden=4
+Sarah had breakfast with Sarah . Sarah had breakfast with Sarah
+David with Steve had Steve with Sarah . Sarah had breakfast
+Steve had lunch with Sarah . Sarah had breakfast with Sarah
+
+ 
+Elapsed time: 12.461508989334106 second(s)
+The parameters are
+ n_input=4
+ training_iters=2000
+ LSTM layer=1
+ n_hidden=2
+David had breakfast dinner with with with with with with with with
+Sarah with David Steve with with with with with with with with
+Sarah Steve had lunch with with with with with with with with
+
+ 
+Elapsed time: 12.441910982131958 second(s)
+The parameters are
+ n_input=4
+ training_iters=2000
+ LSTM layer=1
+ n_hidden=3
+David had breakfast dinner . Sarah had Sarah had Sarah had Sarah
+Sarah with David Steve had Sarah had Sarah had Sarah had Sarah
+Sarah Steve had lunch had Sarah . had Sarah had Sarah had
+
+ 
+Elapsed time: 12.36372709274292 second(s)
+The parameters are
+ n_input=4
+ training_iters=2000
+ LSTM layer=1
+ n_hidden=4
+David had breakfast dinner with . . . . . . .
+Sarah with David Steve with . . . . . . .
+Sarah Steve had lunch with . . . . . . .
+
+ 
+Elapsed time: 17.941560983657837 second(s)
+The parameters are
+ n_input=4
+ training_iters=2000
+ LSTM layer=2
+ n_hidden=2
+David had breakfast dinner with with with with with with with with
+Sarah with David Steve with with with with with with with with
+Sarah Steve had lunch with with with with with with with with
+
+ 
+Elapsed time: 17.620709896087646 second(s)
+The parameters are
+ n_input=4
+ training_iters=2000
+ LSTM layer=2
+ n_hidden=3
+David had breakfast dinner breakfast breakfast breakfast breakfast breakfast breakfast breakfast breakfast
+Sarah with David Steve breakfast breakfast breakfast breakfast breakfast breakfast breakfast breakfast
+Sarah Steve had lunch breakfast breakfast breakfast breakfast breakfast breakfast breakfast breakfast
+
+ 
+Elapsed time: 17.64863085746765 second(s)
+The parameters are
+ n_input=4
+ training_iters=2000
+ LSTM layer=2
+ n_hidden=4
+David had breakfast dinner with . with with . with . .
+Sarah with David Steve with . with with . with . .
+Sarah Steve had lunch with with . with . . with .
+
+ 
+Elapsed time: 36.25085091590881 second(s)
+The parameters are
+ n_input=4
+ training_iters=5000
+ LSTM layer=1
+ n_hidden=2
+David had breakfast dinner with Steve with Steve with Steve with Steve
+Sarah with David Steve with Steve with Steve with Steve with Steve
+Sarah Steve had lunch with Steve with Steve with Steve with Steve
+
+ 
+Elapsed time: 36.75009298324585 second(s)
+The parameters are
+ n_input=4
+ training_iters=5000
+ LSTM layer=1
+ n_hidden=3
+David had breakfast dinner with Steve with Steve with Steve with Steve
+Sarah with David Steve with Sarah . Sarah . Sarah . Sarah
+Sarah Steve had lunch with Steve with Steve with Steve with Steve
+
+ 
+Elapsed time: 36.87018394470215 second(s)
+The parameters are
+ n_input=4
+ training_iters=5000
+ LSTM layer=1
+ n_hidden=4
+David had breakfast dinner . Steve . Steve . Steve . Steve
+Sarah with David Steve . Steve . Steve . Steve . Steve
+Sarah Steve had lunch with Steve . Steve . Steve . Steve
+
+ 
+Elapsed time: 48.758015871047974 second(s)
+The parameters are
+ n_input=4
+ training_iters=5000
+ LSTM layer=2
+ n_hidden=2
+David had breakfast dinner with . . . . . . .
+Sarah with David Steve . . . . . . . .
+Sarah Steve had lunch with . . . . . . .
+
+ 
+Elapsed time: 48.60038208961487 second(s)
+The parameters are
+ n_input=4
+ training_iters=5000
+ LSTM layer=2
+ n_hidden=3
+David had breakfast dinner with . with with with with with with
+Sarah with David Steve had with with . . had with with
+Sarah Steve had lunch with . . had with with . .
+
+ 
+Elapsed time: 49.10243010520935 second(s)
+The parameters are
+ n_input=4
+ training_iters=5000
+ LSTM layer=2
+ n_hidden=4
+David had breakfast dinner with . had had Steve with . .
+Sarah with David Steve Sarah Sarah Sarah Sarah Sarah Sarah Sarah Sarah
+Sarah Steve had lunch with Steve . had had Sarah with .
+
+ 
+Elapsed time: 1.5501598318417866 minute(s)
+The parameters are
+ n_input=4
+ training_iters=10000
+ LSTM layer=1
+ n_hidden=2
+David had breakfast dinner . breakfast with Sarah . breakfast with Sarah
+Sarah with David Steve . breakfast with Sarah . breakfast with Sarah
+Sarah Steve had lunch with Sarah . breakfast with Sarah . breakfast
+
+ 
+Elapsed time: 1.5671656489372254 minute(s)
+The parameters are
+ n_input=4
+ training_iters=10000
+ LSTM layer=1
+ n_hidden=3
+David had breakfast dinner . Steve . Steve . Steve . Steve
+Sarah with David Steve . Steve . Steve . Steve . Steve
+Sarah Steve had lunch with breakfast with breakfast with breakfast with breakfast
+
+ 
+Elapsed time: 1.568259565035502 minute(s)
+The parameters are
+ n_input=4
+ training_iters=10000
+ LSTM layer=1
+ n_hidden=4
+David had breakfast dinner with Sarah with Steve had breakfast . Steve
+Sarah with David Steve Steve . breakfast with Steve with Steve had
+Sarah Steve had lunch with Steve had breakfast . Steve . Steve
+
+ 
+Elapsed time: 1.9825833201408387 minute(s)
+The parameters are
+ n_input=4
+ training_iters=10000
+ LSTM layer=2
+ n_hidden=2
+David had breakfast dinner . . with breakfast with Steve with Steve
+Sarah with David Steve with breakfast with Steve with Steve with Steve
+Sarah Steve had lunch with . . . had breakfast with .
+
+ 
+Elapsed time: 1.9613271792729696 minute(s)
+The parameters are
+ n_input=4
+ training_iters=10000
+ LSTM layer=2
+ n_hidden=3
+David had breakfast dinner had . breakfast . . breakfast . had
+Sarah with David Steve . had breakfast with . . . had
+Sarah Steve had lunch with Sarah . Sarah had breakfast with Sarah
+
+ 
+Elapsed time: 1.9626646836598713 minute(s)
+The parameters are
+ n_input=4
+ training_iters=10000
+ LSTM layer=2
+ n_hidden=4
+David had breakfast dinner with Steve with Steve with Sarah with Sarah
+Sarah with David Steve with had Sarah . Steve . had breakfast
+Sarah Steve had lunch with Steve . Sarah had breakfast with Steve
+
+ 

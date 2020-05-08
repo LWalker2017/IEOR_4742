@@ -1,0 +1,396 @@
+Elapsed time: 9.77474308013916 second(s)
+The parameters are
+ n_input=3
+ training_iters=2000
+ LSTM layer=1
+ n_hidden=2
+Sarah did yoga Frank Sarah Sarah Sarah Sarah Sarah Sarah Sarah
+Jake had lunch Frank Sarah Sarah Sarah Sarah Sarah Sarah Sarah
+Frank had breakfast Frank Sarah Sarah Sarah Sarah Sarah Sarah Sarah
+
+ 
+Elapsed time: 9.729864120483398 second(s)
+The parameters are
+ n_input=3
+ training_iters=2000
+ LSTM layer=1
+ n_hidden=3
+Sarah did yoga had Jake Jake Jake Jake Jake Jake Jake
+Jake had lunch Jake Jake Jake Jake Jake Jake Jake Jake
+Frank had breakfast Jake Jake Jake Jake Jake Jake Jake Jake
+
+ 
+Elapsed time: 9.76369309425354 second(s)
+The parameters are
+ n_input=3
+ training_iters=2000
+ LSTM layer=1
+ n_hidden=4
+Sarah did yoga had Sarah Sarah Sarah Sarah Sarah Sarah Sarah
+Jake had lunch Sarah Sarah Sarah Sarah Sarah Sarah Sarah Sarah
+Frank had breakfast had Sarah Sarah Sarah Sarah Sarah Sarah Sarah
+
+ 
+Elapsed time: 14.145328044891357 second(s)
+The parameters are
+ n_input=3
+ training_iters=2000
+ LSTM layer=2
+ n_hidden=2
+Sarah did yoga lunch lunch lunch lunch lunch lunch lunch lunch
+Jake had lunch lunch lunch lunch lunch lunch lunch lunch lunch
+Frank had breakfast lunch lunch lunch lunch lunch lunch lunch lunch
+
+ 
+Elapsed time: 14.345561027526855 second(s)
+The parameters are
+ n_input=3
+ training_iters=2000
+ LSTM layer=2
+ n_hidden=3
+Sarah did yoga lunch lunch lunch lunch lunch lunch lunch lunch
+Jake had lunch lunch lunch lunch lunch lunch lunch lunch lunch
+Frank had breakfast lunch lunch lunch lunch lunch lunch lunch lunch
+
+ 
+Elapsed time: 14.561720848083496 second(s)
+The parameters are
+ n_input=3
+ training_iters=2000
+ LSTM layer=2
+ n_hidden=4
+Sarah did yoga . Jake . . . . . .
+Jake had lunch . Jake . . . . . .
+Frank had breakfast . Jake . . . . . .
+
+ 
+Elapsed time: 32.40736722946167 second(s)
+The parameters are
+ n_input=3
+ training_iters=5000
+ LSTM layer=1
+ n_hidden=2
+Sarah did yoga and Jake and Sarah Sarah and Sarah Sarah
+Jake had lunch and Jake and Sarah Sarah and Sarah Sarah
+Frank had breakfast and Jake and Sarah Sarah and Sarah Sarah
+
+ 
+Elapsed time: 32.81879901885986 second(s)
+The parameters are
+ n_input=3
+ training_iters=5000
+ LSTM layer=1
+ n_hidden=3
+Sarah did yoga . Sarah and Jake . Jake . Sarah
+Jake had lunch . Sarah and Jake . Jake . Sarah
+Frank had breakfast . Sarah and Jake . Jake . Sarah
+
+ 
+Elapsed time: 31.501422882080078 second(s)
+The parameters are
+ n_input=3
+ training_iters=5000
+ LSTM layer=1
+ n_hidden=4
+Sarah did yoga lunch lunch lunch lunch lunch lunch lunch lunch
+Jake had lunch lunch lunch lunch lunch lunch lunch lunch lunch
+Frank had breakfast lunch lunch lunch lunch lunch lunch lunch lunch
+
+ 
+Elapsed time: 41.50904870033264 second(s)
+The parameters are
+ n_input=3
+ training_iters=5000
+ LSTM layer=2
+ n_hidden=2
+Sarah did yoga lunch lunch lunch lunch lunch lunch lunch lunch
+Jake had lunch lunch lunch lunch lunch lunch lunch lunch lunch
+Frank had breakfast lunch lunch lunch lunch lunch lunch lunch lunch
+
+ 
+Elapsed time: 41.66255497932434 second(s)
+The parameters are
+ n_input=3
+ training_iters=5000
+ LSTM layer=2
+ n_hidden=3
+Sarah did yoga Sarah . . . . . . .
+Jake had lunch Sarah . . . . . . .
+Frank had breakfast Sarah . . . . . . .
+
+ 
+Elapsed time: 41.26408123970032 second(s)
+The parameters are
+ n_input=3
+ training_iters=5000
+ LSTM layer=2
+ n_hidden=4
+Sarah did yoga lunch lunch lunch lunch lunch lunch lunch lunch
+Jake had lunch lunch lunch lunch lunch lunch lunch lunch lunch
+Frank had breakfast lunch lunch lunch lunch lunch lunch lunch lunch
+
+ 
+Elapsed time: 1.403757135073344 minute(s)
+The parameters are
+ n_input=3
+ training_iters=10000
+ LSTM layer=1
+ n_hidden=2
+Sarah did yoga lunch lunch lunch lunch lunch lunch lunch lunch
+Jake had lunch lunch lunch lunch lunch lunch lunch lunch lunch
+Frank had breakfast lunch lunch lunch lunch lunch lunch lunch lunch
+
+ 
+Elapsed time: 1.4062667647997538 minute(s)
+The parameters are
+ n_input=3
+ training_iters=10000
+ LSTM layer=1
+ n_hidden=3
+Sarah did yoga lunch lunch lunch lunch lunch lunch lunch lunch
+Jake had lunch lunch lunch lunch lunch lunch lunch lunch lunch
+Frank had breakfast lunch lunch lunch lunch lunch lunch lunch lunch
+
+ 
+Elapsed time: 1.4051500678062439 minute(s)
+The parameters are
+ n_input=3
+ training_iters=10000
+ LSTM layer=1
+ n_hidden=4
+Sarah did yoga lunch lunch lunch lunch lunch lunch lunch lunch
+Jake had lunch lunch lunch lunch lunch lunch lunch lunch lunch
+Frank had breakfast lunch lunch lunch lunch lunch lunch lunch lunch
+
+ 
+Elapsed time: 1.7458157022794087 minute(s)
+The parameters are
+ n_input=3
+ training_iters=10000
+ LSTM layer=2
+ n_hidden=2
+Sarah did yoga lunch lunch lunch lunch lunch lunch lunch lunch
+Jake had lunch lunch lunch lunch lunch lunch lunch lunch lunch
+Frank had breakfast lunch lunch lunch lunch lunch lunch lunch lunch
+
+ 
+Elapsed time: 1.7464612642923991 minute(s)
+The parameters are
+ n_input=3
+ training_iters=10000
+ LSTM layer=2
+ n_hidden=3
+Sarah did yoga with and Jake Sarah Sarah with and Sarah
+Jake had lunch with and Jake Sarah Sarah with and Sarah
+Frank had breakfast with and Jake Sarah Sarah with and Sarah
+
+ 
+Elapsed time: 1.7596965829531352 minute(s)
+The parameters are
+ n_input=3
+ training_iters=10000
+ LSTM layer=2
+ n_hidden=4
+Sarah did yoga lunch with Frank and Sarah . Sarah .
+Jake had lunch lunch with Frank and Sarah . Sarah .
+Frank had breakfast lunch with Frank and Sarah . Sarah .
+
+ 
+Elapsed time: 12.262794971466064 second(s)
+The parameters are
+ n_input=4
+ training_iters=2000
+ LSTM layer=1
+ n_hidden=2
+Sarah works with Frank . . . . . . . .
+Siyu did yoga with . . . . . . . .
+Jake had breakfast with . . . . . . . .
+
+ 
+Elapsed time: 12.736252069473267 second(s)
+The parameters are
+ n_input=4
+ training_iters=2000
+ LSTM layer=1
+ n_hidden=3
+Sarah works with Frank . Jake . Jake . Jake . Jake
+Siyu did yoga with Frank . Jake . Jake . Jake .
+Jake had breakfast with Frank . Jake . Jake . Jake .
+
+ 
+Elapsed time: 12.728589057922363 second(s)
+The parameters are
+ n_input=4
+ training_iters=2000
+ LSTM layer=1
+ n_hidden=4
+Sarah works with Frank and and . . . . . .
+Siyu did yoga with and and and . . . . .
+Jake had breakfast with and and and . . . . .
+
+ 
+Elapsed time: 17.421308994293213 second(s)
+The parameters are
+ n_input=4
+ training_iters=2000
+ LSTM layer=2
+ n_hidden=2
+Sarah works with Frank . . . . . . . .
+Siyu did yoga with . . . . . . . .
+Jake had breakfast with . . . . . . . .
+
+ 
+Elapsed time: 17.519279956817627 second(s)
+The parameters are
+ n_input=4
+ training_iters=2000
+ LSTM layer=2
+ n_hidden=3
+Sarah works with Frank and and and and and and and and
+Siyu did yoga with and and and before before before before before
+Jake had breakfast with and and and before before before before before
+
+ 
+Elapsed time: 17.58563208580017 second(s)
+The parameters are
+ n_input=4
+ training_iters=2000
+ LSTM layer=2
+ n_hidden=4
+Sarah works with Frank and and . . . . . .
+Siyu did yoga with Frank and and . . . . .
+Jake had breakfast with Frank and and . . . . .
+
+ 
+Elapsed time: 36.35253310203552 second(s)
+The parameters are
+ n_input=4
+ training_iters=5000
+ LSTM layer=1
+ n_hidden=2
+Sarah works with Frank . Frank . Jake with Frank . Frank
+Siyu did yoga with Frank . Frank . Jake with Frank .
+Jake had breakfast with Frank . Frank . Jake with Frank .
+
+ 
+Elapsed time: 35.998709201812744 second(s)
+The parameters are
+ n_input=4
+ training_iters=5000
+ LSTM layer=1
+ n_hidden=3
+Sarah works with Frank . Frank Frank Frank Frank Frank Frank Frank
+Siyu did yoga with Frank . Frank Frank Frank Frank Frank Frank
+Jake had breakfast with Frank . Frank Frank Frank Frank Frank Frank
+
+ 
+Elapsed time: 36.339648723602295 second(s)
+The parameters are
+ n_input=4
+ training_iters=5000
+ LSTM layer=1
+ n_hidden=4
+Sarah works with Frank and Frank . Sarah breakfast . Sarah .
+Siyu did yoga with Frank and Frank . Sarah breakfast . Sarah
+Jake had breakfast with Frank and Frank . Sarah breakfast . Sarah
+
+ 
+Elapsed time: 48.57254695892334 second(s)
+The parameters are
+ n_input=4
+ training_iters=5000
+ LSTM layer=2
+ n_hidden=2
+Sarah works with Frank and and . and . . . .
+Siyu did yoga with . Siyu and . Siyu and . Siyu
+Jake had breakfast with Siyu and and . and . . .
+
+ 
+Elapsed time: 48.85747671127319 second(s)
+The parameters are
+ n_input=4
+ training_iters=5000
+ LSTM layer=2
+ n_hidden=3
+Sarah works with Frank and and . . . . . .
+Siyu did yoga with Frank and and . . . . .
+Jake had breakfast with Frank and and . . . . .
+
+ 
+Elapsed time: 49.16946816444397 second(s)
+The parameters are
+ n_input=4
+ training_iters=5000
+ LSTM layer=2
+ n_hidden=4
+Sarah works with Frank and Frank . Jake . breakfast with Frank
+Siyu did yoga with Frank and and . Frank . . Frank
+Jake had breakfast with Frank and Frank . Jake . breakfast with
+
+ 
+Elapsed time: 1.5746562163035074 minute(s)
+The parameters are
+ n_input=4
+ training_iters=10000
+ LSTM layer=1
+ n_hidden=2
+Sarah works with Frank Frank . . . . . . .
+Siyu did yoga with Frank and . . . . . .
+Jake had breakfast with Frank Frank . . . . . .
+
+ 
+Elapsed time: 1.5489785512288412 minute(s)
+The parameters are
+ n_input=4
+ training_iters=10000
+ LSTM layer=1
+ n_hidden=3
+Sarah works with Frank and Siyu . Jake . Jake . Jake
+Siyu did yoga with Frank and Siyu . Jake . Jake .
+Jake had breakfast with Frank and Siyu . Jake . Jake .
+
+ 
+Elapsed time: 1.5462958335876464 minute(s)
+The parameters are
+ n_input=4
+ training_iters=10000
+ LSTM layer=1
+ n_hidden=4
+Sarah works with Frank and Siyu . Jake . Jake and Jake
+Siyu did yoga with Frank and Jake . Jake . Jake and
+Jake had breakfast with Frank and Jake . Jake . Jake and
+
+ 
+Elapsed time: 2.0365067799886067 minute(s)
+The parameters are
+ n_input=4
+ training_iters=10000
+ LSTM layer=2
+ n_hidden=2
+Sarah works with Frank . breakfast . . . breakfast . .
+Siyu did yoga with Frank Frank . . breakfast breakfast . Frank
+Jake had breakfast with Frank Frank . . breakfast breakfast . Frank
+
+ 
+Elapsed time: 2.040808415412903 minute(s)
+The parameters are
+ n_input=4
+ training_iters=10000
+ LSTM layer=2
+ n_hidden=3
+Sarah works with Frank and Jake . and and Jake . .
+Siyu did yoga with . and Jake . . and Jake .
+Jake had breakfast with Frank and Jake . and and Jake .
+
+ 
+Elapsed time: 2.0072050134340924 minute(s)
+The parameters are
+ n_input=4
+ training_iters=10000
+ LSTM layer=2
+ n_hidden=4
+Sarah works with Frank and Jake . Sarah had with Sarah and
+Siyu did yoga with Frank and Jake . Sarah had with Sarah
+Jake had breakfast with Frank and Jake . Sarah had with Sarah
+
+ 
